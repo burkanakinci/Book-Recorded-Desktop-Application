@@ -1,2 +1,4 @@
 # Book-Recorded-Desktop-Application
-Used C#, .NetFramework and MSSQL database
+Used C#, .NetFramework, MSSQL database
+
+Add Project
